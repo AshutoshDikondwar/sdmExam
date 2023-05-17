@@ -1,0 +1,6 @@
+Business Entities
+
+User:-name,email,passwors
+Recriter:- name, email, password
+Role: Employee, recruiter
+status: shortlisted for interview, rejected

@@ -1,0 +1,35 @@
+System Requirement Specification
+Title: System Requirement Specification for Employee Recruitment System
+Purpose:
+The purpose of the document is to provide detailed information about Employee recruitment System. The aim of the this web application facilitate to Employee and job seekers about the recruitment system.
+Scope:
+This web application provides the user friendly interface for both the recruiter and job seekers.
+Functional Requirement:
+
+User registration and Authentication:
+User shall register to the application by providing the email, name and password, role.
+User shall be authenticated for secure service.
+
+Serach and Filteration:
+User shall able to serach the job according to his/her needs such as location, salary,etc.
+An application shall provide  filteration option like location,salary.
+
+Employee Tracking:
+Recruiter shall able to track employee status and shall have access to update status such as rejected, shortlisted.
+Recruiters shall able to evaluate the skills and qualifications of the job seekers.
+
+
+Interview:
+Application shall provide an access to recruiter to create,update interview schedule details.
+
+Role: 
+User shall provide the role while registering such as recruiter or job seeker.
+
+Non Functinal Recruitment:
+Security: All the personal details shall be secured in database.
+Availability: Application shall be avalilabe all the time .
+Maintainability: Application shall not be crashed in case of heavy traffic.
+
+Conclusion:
+Employee Recruitement system application is to provide easiness in finding the jobs. It provides User friendly interface
+
